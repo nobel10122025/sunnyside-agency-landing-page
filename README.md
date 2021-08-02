@@ -31,7 +31,7 @@ Mobile-design:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/nobel10122025/sunnyside-agency-landing-page)
-- Live Site URL: [Add live site URL here](https://github.com/nobel10122025/sunnyside-agency-landing-page/index.html)
+- Live Site URL: [Add live site URL here](https://nobel10122025.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
