@@ -25,13 +25,10 @@ Users should be able to:
 Desktop-design:
 ![desktop-design](https://user-images.githubusercontent.com/48177682/127817521-0ad0f73b-cf6a-43e7-9796-1a4b5388dba3.jpg)
 
-Mobile-design:
-![mobile-design](https://user-images.githubusercontent.com/48177682/127817573-65770539-3447-4c09-9e12-2f25582afc3e.jpg)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nobel10122025/sunnyside-agency-landing-page)
-- Live Site URL: [Add live site URL here](https://nobel10122025.github.io/sunnyside-agency-landing-page/)
+- Solution URL: [Click here](https://github.com/nobel10122025/sunnyside-agency-landing-page)
+- Live Site URL: [Click here](https://nobel10122025.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
